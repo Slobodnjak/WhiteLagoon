@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteLagoon.Web", "WhiteLagoon.Web\WhiteLagoon.Web.csproj", "{45C73375-C03E-481F-9738-FB7589F7262C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45C73375-C03E-481F-9738-FB7589F7262C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C73375-C03E-481F-9738-FB7589F7262C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C73375-C03E-481F-9738-FB7589F7262C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C73375-C03E-481F-9738-FB7589F7262C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B71FAC92-0EE3-4A4C-9201-BE52B01604EE}
+	EndGlobalSection
+EndGlobal
